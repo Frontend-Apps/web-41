@@ -1,1 +1,1 @@
-console.log("Interval bang scene added")
+console.log("Interval bang scene added also twist added")
